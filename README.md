@@ -20,3 +20,5 @@ An app with Firebase integration for user authentication using email-password an
 
 **Please note that the service account key JSON file is not shared in this repository for security reasons.**
 Each user/developer will have their own unique key which they should obtain from their Firebase project settings.
+
+![Screenshot_1](https://github.com/GagandeipSingh/Firebase-Authentication/assets/128288970/cb42fb8f-5bbd-41b5-8bf2-be135e40acd2)
