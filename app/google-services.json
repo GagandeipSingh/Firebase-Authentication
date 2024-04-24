@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1094826365200",
+    "firebase_url": "https://coursego-new-default-rtdb.firebaseio.com",
+    "project_id": "coursego-new",
+    "storage_bucket": "coursego-new.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1094826365200:android:686bfad720bc6ca0681595",
+        "android_client_info": {
+          "package_name": "com.example.coursego"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1094826365200-cb4fijg4qedrn6jd6mdcsmntv0r4c2oi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.coursego",
+            "certificate_hash": "9c3061cd258de24a44542df5efad828605a7ec21"
+          }
+        },
+        {
+          "client_id": "1094826365200-h0jtetfdn2rn4b7mnhnlumi1sra8514e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLpv6QW3bNEcNzVnWVgW53oHg8Vy_2IT4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1094826365200-h0jtetfdn2rn4b7mnhnlumi1sra8514e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
