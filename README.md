@@ -22,3 +22,6 @@ An app with Firebase integration for user authentication using email-password an
 Each user/developer will have their own unique key which they should obtain from their Firebase project settings.
 
 ![Screenshot_1](https://github.com/GagandeipSingh/Firebase-Authentication/assets/128288970/cb42fb8f-5bbd-41b5-8bf2-be135e40acd2)
+
+![photo_2024-05-12_16-32-06](https://github.com/GagandeipSingh/Firebase-Authentication/assets/128288970/2242cf49-5d47-4864-b7a6-eb5e76ef64be)
+
